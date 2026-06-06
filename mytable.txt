@@ -1,14 +1,11 @@
 ~	〜
 .	。
 ,	、
-z/	・
 z.	…
 z,	‥
 z-	〜
 z[	『
 z]	』
-[	「
-]	」
 va	ゔぁ
 vi	ゔぃ
 vu	ゔ
@@ -495,3 +492,9 @@ whi	うぃ
 whu	う
 whe	うぇ
 who	うぉ
+[	「
+]	」
+vvl	→
+vvk	↑
+vvh	←
+vvj	↓
